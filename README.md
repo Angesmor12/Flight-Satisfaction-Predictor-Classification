@@ -1,4 +1,4 @@
-Median Housing Price Predictor ( Regression model )
+Flight Satisfaction Predictor ( Classification model )
 
 Artificial Intelligence Project Focused on Classification Models
 
