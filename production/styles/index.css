@@ -25,6 +25,7 @@ body {
 .container {
   background-color: #fff;
   overflow-y: auto;
+  overflow-x: hidden;
   width: 900px;
   height: 100%;
   position: relative;
@@ -217,7 +218,8 @@ body {
   }
 
   body{
-    overflow: auto !important;
+    overflow-y: auto !important;
+    overflow-x: hidden;
   }
 
 }
