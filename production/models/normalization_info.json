@@ -1,0 +1,30 @@
+{
+    "min_values" : {
+        "customer_type" : 0,
+        "type_of_travel" : 0,
+        "class" : 0,
+        "age" : 7.000000,
+        "flight_distance" : 31.000000,
+        "inflight_wifi_service" : 0,
+        "online_boarding" : 0,
+        "seat_comfort" : 0,
+        "inflight_entertainment" : 0,
+        "on_board_service" : 0,
+        "baggage_handling" : 1,
+        "cleanliness" : 0
+    },
+    "max_values" : {
+        "customer_type" : 1,
+        "type_of_travel" : 1,
+        "class" : 2,
+        "age" : 85.000000,
+        "flight_distance" : 4983.000000,
+        "inflight_wifi_service" : 5,
+        "online_boarding" : 5,
+        "seat_comfort" : 5,
+        "inflight_entertainment" : 5,
+        "on_board_service" : 5,
+        "baggage_handling" : 5,
+        "cleanliness" : 5
+    }
+}

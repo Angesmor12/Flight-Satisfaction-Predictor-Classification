@@ -1,0 +1,46 @@
+,Dataset,Accuracy
+0,train-dataset,0.9558447325488227
+1,train-dataset_l,0.9517612873953798
+2,train-dataset_outliers,0.9598694177909242
+3,train-dataset_l_outliers,0.9560051077112252
+4,train-dataset_isolation,0.9625234545362341
+5,train-dataset_l_isolation,0.9756659435038357
+6,train-dataset_dc_outliers,0.9599592806243638
+7,train-dataset_l_dc_outliers,0.956889130533279
+8,train-dataset_sample,0.8464052287581699
+9,train-dataset_outliers_representative,0.8856209150326797
+10,train-dataset_outliers_l_representative,0.9052287581699346
+11,train-dataset_outliers_reduce,0.9355565976480773
+12,train-dataset_l_outliers_reduce,0.9379625907446381
+13,train-dataset_m_outliers,1.0
+14,train-dataset_l_m_outliers,1.0
+15,dataset,0.95524750946019
+16,dataset_l,0.9477179704996525
+17,dataset_outliers,0.9614024962123945
+18,dataset_l_outliers,0.9553558760936391
+19,dataset_isolation,0.9613252197430696
+20,dataset_l_isolation,0.973787797459295
+21,dataset_dc_outliers,0.9573154180238871
+22,dataset_l_dc_outliers,0.9526096411743386
+23,dataset_sample,0.832819914363432
+24,dataset_outliers_representative,0.8643687374749499
+25,dataset_outliers_l_representative,0.865855324694433
+26,dataset_outliers_reduce,0.9356467787316932
+27,dataset_l_outliers_reduce,0.9337432017025301
+28,dataset_m_outliers,0.8181643286573146
+29,dataset_l_m_outliers,0.7793086777858351
+30,Cross-Validation dataset,0.9448284199963537
+31,Cross-Validation dataset_l,0.9414999104907474
+32,Cross-Validation dataset_outliers,0.9441022782627604
+33,Cross-Validation dataset_l_outliers,0.9342432779913827
+34,Cross-Validation dataset_isolation,0.9435407695835994
+35,Cross-Validation dataset_l_isolation,0.9640894491029888
+36,Cross-Validation dataset_dc_outliers,0.9415956349421792
+37,Cross-Validation dataset_l_dc_outliers,0.9218166660625612
+38,Cross-Validation dataset_sample,0.5483278508771929
+39,Cross-Validation dataset_outliers_representative,0.5457510964912281
+40,Cross-Validation dataset_outliers_l_representative,0.6290844298245614
+41,Cross-Validation dataset_outliers_reduce,0.921492016381384
+42,Cross-Validation dataset_l_outliers_reduce,0.9272059211190359
+43,Cross-Validation dataset_m_outliers,0.9997402772298885
+44,Cross-Validation dataset_l_m_outliers,1.0
